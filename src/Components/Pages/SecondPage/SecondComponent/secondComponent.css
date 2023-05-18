@@ -1,0 +1,10 @@
+.second_component_box{
+    /* background-color: pink; */
+    width: 45%;
+    margin: 100px auto;
+    padding-left: 52px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px 2.6px;
+}
